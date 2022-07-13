@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Only fill in if you are not human_um-icon_83284a</name>
+   <tag></tag>
+   <elementGuidId>b99f1172-1903-43b4-9d00-4d17d78db17e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.um-icon-android-checkbox-outline-blank</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-313']/div/div/div/form/div[2]/div/div/label/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1bdaff25-1177-475e-b0df-9215103c95da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>um-icon-android-checkbox-outline-blank</value>
+      <webElementGuid>7514d2e8-86cc-4bce-8ff7-569a16b46eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-313&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;um um-login um-298 uimob500&quot;]/div[@class=&quot;um-form&quot;]/form[1]/div[@class=&quot;um-col-alt&quot;]/div[@class=&quot;um-field um-field-c&quot;]/div[@class=&quot;um-field-area&quot;]/label[@class=&quot;um-field-checkbox&quot;]/span[@class=&quot;um-field-checkbox-state&quot;]/i[@class=&quot;um-icon-android-checkbox-outline-blank&quot;]</value>
+      <webElementGuid>9c355f34-bb54-4e3d-9dca-49cd9dd45fcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-313']/div/div/div/form/div[2]/div/div/label/span/i</value>
+      <webElementGuid>3edbfcad-8f09-468c-ab14-0e16b2d3c5b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>b04f987f-2aa7-419d-92d9-c3af8b5fe7ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

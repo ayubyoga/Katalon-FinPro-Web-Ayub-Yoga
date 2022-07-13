@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Login 03 - Invalid No Login Info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f162a481-7883-415d-9a6f-0d03c58aab31</testCaseGuid>
+</TestCaseEntity>

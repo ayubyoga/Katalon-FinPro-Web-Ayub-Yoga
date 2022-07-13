@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Rp56.200</name>
+   <tag></tag>
+   <elementGuidId>a6bb498d-aa78-4cc0-9a13-c512c58449c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.price > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-275']/div/div/div[2]/div/p/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>3ba46b33-b012-4540-9278-2e146eacddb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp56.200</value>
+      <webElementGuid>546fa453-3f03-422b-b014-d97c159a3c41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-275&quot;)/div[@class=&quot;product_infos&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-5 columns&quot;]/div[@class=&quot;summary entry-summary&quot;]/p[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>059652ff-3766-4614-84ec-c2d372cc32aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-275']/div/div/div[2]/div/p/span/bdi</value>
+      <webElementGuid>783543fd-e16c-4bd7-b9be-4d0304080851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frozen Tempe Furai Original 400 g'])[2]/following::bdi[1]</value>
+      <webElementGuid>f901a141-a767-45f4-9b1e-4d1778ec7ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::bdi[1]</value>
+      <webElementGuid>f7f8f0e6-fd95-4905-9a9b-a8a9b86c1f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frozen Tempe Furai Original 400 g quantity'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>5f4abcf8-8640-4151-bcee-582858e7fa24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p/span/bdi</value>
+      <webElementGuid>9d3d3f88-883e-4f6d-813b-dff0fa534a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp56.200' or . = 'Rp56.200')]</value>
+      <webElementGuid>e73d8e43-5391-4ed8-969b-a1defe3dddab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

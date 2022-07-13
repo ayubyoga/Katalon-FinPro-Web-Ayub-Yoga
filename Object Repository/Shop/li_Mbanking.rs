@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Mbanking</name>
+   <tag></tag>
+   <elementGuidId>cdfb5f14-1ce5-4381-808c-490bb60abfc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[2]/ol/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4f6dd485-a72d-4aa3-b38a-b4c4de1555d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 md:px-6 py-4 cursor-pointer whitespace-no-wrap text-center uppercase text-gray-500</value>
+      <webElementGuid>3c94ec79-6570-41b8-ba1c-e2da5e562d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mbanking</value>
+      <webElementGuid>35ed6d71-da7e-4122-a86f-a02579573b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;mt-6&quot;]/div[@class=&quot;mt-6&quot;]/ol[@class=&quot;flex overflow-scroll border-b-thin border-gray-100 font-sans text-base&quot;]/li[@class=&quot;px-4 md:px-6 py-4 cursor-pointer whitespace-no-wrap text-center uppercase text-gray-500&quot;]</value>
+      <webElementGuid>d0c6ad4b-8975-4adc-89d1-3b654fc168af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[2]/ol/li[3]</value>
+      <webElementGuid>d4157caa-6f43-4aa2-bfbb-7e9146746dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ibanking'])[1]/following::li[1]</value>
+      <webElementGuid>57fa4757-432d-43e8-aa84-97d4f8eb6e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atm'])[1]/following::li[2]</value>
+      <webElementGuid>9042415f-d055-409b-bb75-ea5effade63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://ibank.bni.co.id'])[1]/preceding::li[1]</value>
+      <webElementGuid>f036a403-de49-4b5a-8d55-5f85d8e6a043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mbanking']/parent::*</value>
+      <webElementGuid>ee81fe1d-a349-48a7-87b8-a00c07ed3434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>60dd14b1-794f-48c4-8de6-1701d80dd95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Mbanking' or . = 'Mbanking')]</value>
+      <webElementGuid>b14d3353-cc34-4a70-a962-285df0e2c104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

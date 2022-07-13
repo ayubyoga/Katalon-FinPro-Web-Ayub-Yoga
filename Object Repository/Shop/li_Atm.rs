@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Atm</name>
+   <tag></tag>
+   <elementGuidId>6b34b286-8a04-43d8-b63f-79b99e34a03e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[2]/ol/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a9efc4fc-6bed-45b1-a68a-3b152102c062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 md:px-6 py-4 cursor-pointer whitespace-no-wrap text-center uppercase font-bold sm:font-normal text-primary border-b-2 border-primary</value>
+      <webElementGuid>ce5f025c-fe04-4725-87ed-1d4f84301e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atm</value>
+      <webElementGuid>c8ef2786-f795-4642-9bbf-ceb7e6062b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;mt-6&quot;]/div[@class=&quot;mt-6&quot;]/ol[@class=&quot;flex overflow-scroll border-b-thin border-gray-100 font-sans text-base&quot;]/li[@class=&quot;px-4 md:px-6 py-4 cursor-pointer whitespace-no-wrap text-center uppercase font-bold sm:font-normal text-primary border-b-2 border-primary&quot;]</value>
+      <webElementGuid>32954f6c-c28e-4c6e-8290-329ca5f9af53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div[2]/ol/li</value>
+      <webElementGuid>1776a406-1033-43f6-8a52-1d71def7199b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[1]/following::li[1]</value>
+      <webElementGuid>aa045ba9-5af0-4435-8f49-9c3801bb013e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nominal yang akan dibayarkan'])[1]/following::li[1]</value>
+      <webElementGuid>b9e60a67-431f-4968-a970-67f82228406e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ibanking'])[1]/preceding::li[1]</value>
+      <webElementGuid>21400af1-4569-483f-ae30-ac4c8bc17dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mbanking'])[1]/preceding::li[2]</value>
+      <webElementGuid>e6bbc3db-948e-46e0-ad1d-5b48500df602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atm']/parent::*</value>
+      <webElementGuid>daceb53d-a839-458f-9e72-5c57a4b28e7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li</value>
+      <webElementGuid>ca5cf0a2-12cb-4d19-a95d-1040048ac1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Atm' or . = 'Atm')]</value>
+      <webElementGuid>d6fafd46-e11a-44b8-8919-84e4d32e78d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

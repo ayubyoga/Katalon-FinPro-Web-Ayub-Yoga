@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>b3a464ae-5a80-421b-a18e-8137e505305b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e616936c-ebbf-4497-a058-b797b950b1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M32.889.159h3.645s3.229 4.89 4.816 6.91c1.587 2.02 3.3 4.321 3.3 4.321V1.254c0-.438-1.149-1.1-1.149-1.1h4.2s-1.379.567-1.379 1.1v14.745a11.712 11.712 0 01-2.824-2.478c-1.686-1.96-7.685-9.87-7.685-9.87v10.246c0 .525 1.149 1.319 1.149 1.319H32.89s1.117-.8 1.117-1.319V1.254C34.006.789 32.889.159 32.889.159zM50.054.159h4.679s-1.256.6-1.256 1.1v12.644c0 .546 1.256 1.319 1.256 1.319h-4.679s1.17-.79 1.17-1.319V1.254c0-.481-1.17-1.095-1.17-1.095zM19.124.159s1.213.6 1.213 1.1v12.644c0 .538-1.213 1.319-1.213 1.319h6.931c.433 0 5.285-.793 5.285-4.534 0-3.741-3.769-4.091-3.769-4.091a3.29 3.29 0 002.3-3.2c0-2.759-3.379-3.235-3.812-3.235L19.124.159zm3.682 6.185V1.636h2.816a2.232 2.232 0 011.949 2.382 2.47 2.47 0 01-1.949 2.325l-2.816.001zm0 1.235h3.249c.433 0 2.989.664 2.989 2.882 0 2.261-2.556 3.062-2.989 3.062h-3.249V7.579z</value>
+      <webElementGuid>b4d3f41e-91f9-4720-9e5b-0c54c007f99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#005E6A</value>
+      <webElementGuid>1dfaf6c1-108a-46db-bab5-1cf1b88ee870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 mx-32 w-3/5&quot;]/div[@class=&quot;mt-6&quot;]/div[@class=&quot;p-6 sm:p-8 flex flex-col-reverse sm:flex-row justify-between border-thin border-gray-100 rounded-sm&quot;]/div[@class=&quot;self-center pb-4 sm:p-0&quot;]/svg[1]/path[3]</value>
+      <webElementGuid>19d8268d-18b5-4246-a4e7-aecde3664932</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
