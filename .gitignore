@@ -1,4 +1,3 @@
-.gradle
 
 bin
 
@@ -8,17 +7,20 @@ Libs
 
 output
 
-!output/.gitkeep
 build
 
 .classpath
 
-.project
-
 .cache
+
+.project
 .Project
+
+/.settings/
+
+.svn/
 /bin/
 /Libs/
-/.settings/
 /.classpath
-.svn/
+
+ayp
