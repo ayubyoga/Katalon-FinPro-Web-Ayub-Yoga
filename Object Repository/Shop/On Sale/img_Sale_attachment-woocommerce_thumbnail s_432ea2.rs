@@ -6,12 +6,12 @@
    <elementGuidId>49da1203-ad52-4f6c-bf65-0c7e48667ba5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div/div[2]/a/img</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.attachment-woocommerce_thumbnail.size-woocommerce_thumbnail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div/div[2]/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

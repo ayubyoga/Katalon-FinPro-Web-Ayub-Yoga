@@ -17,29 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
-
-WebUI.setText(findTestObject('Object Repository/Search/input_Featured products_s'), 'Frozen Tempe Furai Original 400 g')
-
-WebUI.sendKeys(findTestObject('Object Repository/Search/input_Featured products_s'), Keys.chord(Keys.ENTER))
-
-WebUI.verifyElementPresent(findTestObject('Search/Page_Frozen Tempe Furai Original 400 g  Kotakoki/h1_Frozen Tempe Furai Original 400 g'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Search/Page_Frozen Tempe Furai Original 400 g  Kotakoki/img_Search_wp-post-image'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Search/Page_Frozen Tempe Furai Original 400 g  Kotakoki/bdi_Rp56.200'), 0)
-
-WebUI.verifyElementPresent(findTestObject('Search/Page_Frozen Tempe Furai Original 400 g  Kotakoki/p_If you like spicy food, we recommend you _498c9d'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Search/Page_Frozen Tempe Furai Original 400 g  Kotakoki/p_It is now available in kotakoki as a read_f133d2'), 
-    0)
-
-WebUI.closeBrowser()
-
-// ayp
-
+CucumberKW.runFeatureFile('Include/features/WP-8 Yoga - TC Login Website.feature')

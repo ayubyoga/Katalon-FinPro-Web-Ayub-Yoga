@@ -6,12 +6,12 @@
    <elementGuidId>42593a36-65fe-4f0f-afac-a73fe6dee2a1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div[2]/div/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.product.type-product.post-239.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.sale.shipping-taxable.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > span.price</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div[2]/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>04b0d90b-6179-404c-9184-01902a3d2cec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='menu-item-76']/a/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#menu-item-76 > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-76']/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

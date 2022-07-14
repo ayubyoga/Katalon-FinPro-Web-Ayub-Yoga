@@ -21,43 +21,43 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('On Sale/span_Shop'))
+WebUI.click(findTestObject('Shop/On Sale/span_Shop'))
 
-WebUI.click(findTestObject('On Sale/a_On Sale'))
+WebUI.click(findTestObject('Shop/On Sale/a_On Sale'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/On Sale/span_Sale'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/On Sale/span_Sale'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/h2_Beanie'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/h2_Beanie'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Rp20 Rp18'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Rp20 Rp18'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Sale'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Sale'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/h2_Belt'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/h2_Belt'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Rp65 Rp55'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Rp65 Rp55'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_New'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_New'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Sale'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Sale'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/h2_Cap'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/h2_Cap'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Rp18.000 Rp16.000'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Rp18.000 Rp16.000'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Sale'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Sale'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/img_Sale_attachment-woocommerce_thumbnail s_432ea2'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/h2_Hoodie with Zipper'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/h2_Hoodie with Zipper'), 0)
 
-WebUI.verifyElementPresent(findTestObject('On Sale/span_Rp45.000 Rp42.000'), 0)
+WebUI.verifyElementPresent(findTestObject('Shop/On Sale/span_Rp45.000 Rp42.000'), 0)
 
 WebUI.closeBrowser()
 

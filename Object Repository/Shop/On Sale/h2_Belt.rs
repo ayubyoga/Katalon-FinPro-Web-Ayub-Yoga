@@ -6,12 +6,12 @@
    <elementGuidId>6bbdde67-d729-4f3a-9f24-51bdf941d558</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div[2]/div/a/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.product.type-product.post-239.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.sale.shipping-taxable.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > a.title > h2.woocommerce-loop-product__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[3]/div/div[2]/div/a/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

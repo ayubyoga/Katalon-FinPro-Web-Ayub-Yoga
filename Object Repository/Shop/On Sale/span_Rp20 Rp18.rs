@@ -6,12 +6,12 @@
    <elementGuidId>e3722574-8fd4-4aca-8696-693154fc5021</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.price</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

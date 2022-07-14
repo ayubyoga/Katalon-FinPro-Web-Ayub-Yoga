@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/')
 
-WebUI.click(findTestObject('On Sale/span_Shop'))
+WebUI.click(findTestObject('Shop/On Sale/span_Shop'))
 
 WebUI.click(findTestObject('Shop/img_album'))
 
@@ -67,3 +67,4 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Shop/li_Mbanking'),
 
 WebUI.closeBrowser()
 
+// ayp

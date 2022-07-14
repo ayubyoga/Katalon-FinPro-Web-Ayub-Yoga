@@ -6,12 +6,12 @@
    <elementGuidId>15b640a3-a76e-40bb-b5ff-aa86177166c4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div/a/h2</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h2.woocommerce-loop-product__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div/a/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

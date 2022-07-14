@@ -27,3 +27,8 @@ Registry ID		:	KSAT006ONL016
     -   Search
         -   Valid Keyword
         -   Invalid Keyword (No Result)
+
+
+### :books: Note : 
+
+Documents, Test Plan, Test Scenario, in Documents Folder.
